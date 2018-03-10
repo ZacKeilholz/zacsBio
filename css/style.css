@@ -1,0 +1,13 @@
+body {
+    background-color: #efeee7;
+    font-family: "Georgia", 'Times New Roman', Times, serif;
+    color: #333333;
+    margin: 0;
+    margin-top:0;
+    padding: 0;
+}
+header {
+    background-color: #333333;
+    font-size:28px;
+    color:#eee;
+}
